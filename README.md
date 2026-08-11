@@ -4,6 +4,12 @@
 ![AI Agent](https://img.shields.io/badge/AI-Agent-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
+## 🎥 Demo
+*(Here is a quick demonstration of the agent routing tools dynamically)*
+<p align="center">
+  <img src="demo.gif" width="700" alt="Multi-Tool AI Agent Demo">
+</p>
+
 ## 🎯 Objective
 To deeply understand the core concept of **Autonomous AI Agents** and **Tool Calling/Usage**.
 
@@ -40,4 +46,4 @@ A robust system capable of autonomous decision-making to determine *when* to use
 *   **Decision Logging:** Maintains a detailed log of the agent's thought process, tool selection, and routing decisions for debugging and transparency.
 
 ---
-*This project was developed as Task 2 for building Multi-Tool Agents.*
+*This project was developed as a Task for building Multi-Tool Agents.*
